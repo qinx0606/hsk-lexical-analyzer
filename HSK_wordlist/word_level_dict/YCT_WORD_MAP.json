@@ -1,0 +1,1816 @@
+{
+  "家": {
+    "level": "YCT1"
+  },
+  "学校": {
+    "level": "YCT1"
+  },
+  "商店": {
+    "level": "YCT1"
+  },
+  "中国人": {
+    "level": "YCT1"
+  },
+  "爸爸": {
+    "level": "YCT1"
+  },
+  "妈妈": {
+    "level": "YCT1"
+  },
+  "哥哥": {
+    "level": "YCT1"
+  },
+  "姐姐": {
+    "level": "YCT1"
+  },
+  "老师": {
+    "level": "YCT1"
+  },
+  "手": {
+    "level": "YCT1"
+  },
+  "口": {
+    "level": "YCT1"
+  },
+  "眼睛": {
+    "level": "YCT1"
+  },
+  "头发": {
+    "level": "YCT1"
+  },
+  "耳朵": {
+    "level": "YCT1"
+  },
+  "鼻子": {
+    "level": "YCT1"
+  },
+  "个子": {
+    "level": "YCT1"
+  },
+  "猫": {
+    "level": "YCT1"
+  },
+  "狗": {
+    "level": "YCT1"
+  },
+  "鸟": {
+    "level": "YCT1"
+  },
+  "鱼": {
+    "level": "YCT1"
+  },
+  "水": {
+    "level": "YCT1"
+  },
+  "牛奶": {
+    "level": "YCT1"
+  },
+  "米饭": {
+    "level": "YCT1"
+  },
+  "面条": {
+    "level": "YCT1"
+  },
+  "苹果": {
+    "level": "YCT1"
+  },
+  "今天": {
+    "level": "YCT1"
+  },
+  "明天": {
+    "level": "YCT1"
+  },
+  "现在": {
+    "level": "YCT1"
+  },
+  "月": {
+    "level": "YCT1"
+  },
+  "号": {
+    "level": "YCT1"
+  },
+  "星期": {
+    "level": "YCT1"
+  },
+  "点": {
+    "level": "YCT1"
+  },
+  "谢谢": {
+    "level": "YCT1"
+  },
+  "再见": {
+    "level": "YCT1"
+  },
+  "是": {
+    "level": "YCT1"
+  },
+  "有": {
+    "level": "YCT1"
+  },
+  "看": {
+    "level": "YCT1"
+  },
+  "吃": {
+    "level": "YCT1"
+  },
+  "喝": {
+    "level": "YCT1"
+  },
+  "去": {
+    "level": "YCT1"
+  },
+  "叫": {
+    "level": "YCT1"
+  },
+  "爱": {
+    "level": "YCT1"
+  },
+  "喜欢": {
+    "level": "YCT1"
+  },
+  "认识": {
+    "level": "YCT1"
+  },
+  "好": {
+    "level": "YCT1"
+  },
+  "多": {
+    "level": "YCT1"
+  },
+  "大": {
+    "level": "YCT1"
+  },
+  "小": {
+    "level": "YCT1"
+  },
+  "长": {
+    "level": "YCT1"
+  },
+  "高": {
+    "level": "YCT1"
+  },
+  "高兴": {
+    "level": "YCT1"
+  },
+  "我": {
+    "level": "YCT1"
+  },
+  "你": {
+    "level": "YCT1"
+  },
+  "他": {
+    "level": "YCT1"
+  },
+  "她": {
+    "level": "YCT1"
+  },
+  "我们": {
+    "level": "YCT1"
+  },
+  "这": {
+    "level": "YCT1"
+  },
+  "这儿": {
+    "level": "YCT1"
+  },
+  "那": {
+    "level": "YCT1"
+  },
+  "那儿": {
+    "level": "YCT1"
+  },
+  "哪": {
+    "level": "YCT1"
+  },
+  "哪儿": {
+    "level": "YCT1"
+  },
+  "谁": {
+    "level": "YCT1"
+  },
+  "什么": {
+    "level": "YCT1"
+  },
+  "几": {
+    "level": "YCT1"
+  },
+  "一": {
+    "level": "YCT1"
+  },
+  "二": {
+    "level": "YCT1"
+  },
+  "三": {
+    "level": "YCT1"
+  },
+  "四": {
+    "level": "YCT1"
+  },
+  "五": {
+    "level": "YCT1"
+  },
+  "六": {
+    "level": "YCT1"
+  },
+  "七": {
+    "level": "YCT1"
+  },
+  "八": {
+    "level": "YCT1"
+  },
+  "九": {
+    "level": "YCT1"
+  },
+  "十": {
+    "level": "YCT1"
+  },
+  "个": {
+    "level": "YCT1"
+  },
+  "岁": {
+    "level": "YCT1"
+  },
+  "不": {
+    "level": "YCT1"
+  },
+  "很": {
+    "level": "YCT1"
+  },
+  "和": {
+    "level": "YCT1"
+  },
+  "在": {
+    "level": "YCT1"
+  },
+  "的": {
+    "level": "YCT1"
+  },
+  "吗": {
+    "level": "YCT1"
+  },
+  "房间": {
+    "level": "YCT2"
+  },
+  "医院": {
+    "level": "YCT2"
+  },
+  "北京": {
+    "level": "YCT2"
+  },
+  "弟弟": {
+    "level": "YCT2"
+  },
+  "妹妹": {
+    "level": "YCT2"
+  },
+  "同学": {
+    "level": "YCT2"
+  },
+  "学生": {
+    "level": "YCT2"
+  },
+  "朋友": {
+    "level": "YCT2"
+  },
+  "医生": {
+    "level": "YCT2"
+  },
+  "脚": {
+    "level": "YCT2"
+  },
+  "熊猫": {
+    "level": "YCT2"
+  },
+  "茶": {
+    "level": "YCT2"
+  },
+  "香蕉": {
+    "level": "YCT2"
+  },
+  "包子": {
+    "level": "YCT2"
+  },
+  "年": {
+    "level": "YCT2"
+  },
+  "分钟": {
+    "level": "YCT2"
+  },
+  "昨天": {
+    "level": "YCT2"
+  },
+  "早上": {
+    "level": "YCT2"
+  },
+  "晚上": {
+    "level": "YCT2"
+  },
+  "铅笔": {
+    "level": "YCT2"
+  },
+  "书包": {
+    "level": "YCT2"
+  },
+  "桌子": {
+    "level": "YCT2"
+  },
+  "椅子": {
+    "level": "YCT2"
+  },
+  "电视": {
+    "level": "YCT2"
+  },
+  "汉语": {
+    "level": "YCT2"
+  },
+  "名字": {
+    "level": "YCT2"
+  },
+  "天气": {
+    "level": "YCT2"
+  },
+  "颜色": {
+    "level": "YCT2"
+  },
+  "钱": {
+    "level": "YCT2"
+  },
+  "里面": {
+    "level": "YCT2"
+  },
+  "上边": {
+    "level": "YCT2"
+  },
+  "请": {
+    "level": "YCT2"
+  },
+  "不客气": {
+    "level": "YCT2"
+  },
+  "对不起": {
+    "level": "YCT2"
+  },
+  "没关系": {
+    "level": "YCT2"
+  },
+  "来": {
+    "level": "YCT2"
+  },
+  "做": {
+    "level": "YCT2"
+  },
+  "坐": {
+    "level": "YCT2"
+  },
+  "买": {
+    "level": "YCT2"
+  },
+  "画": {
+    "level": "YCT2"
+  },
+  "说话": {
+    "level": "YCT2"
+  },
+  "玩": {
+    "level": "YCT2"
+  },
+  "学习": {
+    "level": "YCT2"
+  },
+  "睡觉": {
+    "level": "YCT2"
+  },
+  "起床": {
+    "level": "YCT2"
+  },
+  "打电话": {
+    "level": "YCT2"
+  },
+  "觉得": {
+    "level": "YCT2"
+  },
+  "会": {
+    "level": "YCT2"
+  },
+  "要": {
+    "level": "YCT2"
+  },
+  "可以": {
+    "level": "YCT2"
+  },
+  "冷": {
+    "level": "YCT2"
+  },
+  "热": {
+    "level": "YCT2"
+  },
+  "漂亮": {
+    "level": "YCT2"
+  },
+  "好吃": {
+    "level": "YCT2"
+  },
+  "红": {
+    "level": "YCT2"
+  },
+  "黄": {
+    "level": "YCT2"
+  },
+  "绿": {
+    "level": "YCT2"
+  },
+  "怎么": {
+    "level": "YCT2"
+  },
+  "怎么样": {
+    "level": "YCT2"
+  },
+  "多少": {
+    "level": "YCT2"
+  },
+  "两": {
+    "level": "YCT2"
+  },
+  "零": {
+    "level": "YCT2"
+  },
+  "块": {
+    "level": "YCT2"
+  },
+  "只": {
+    "level": "YCT2"
+  },
+  "也": {
+    "level": "YCT2"
+  },
+  "没有": {
+    "level": "YCT2"
+  },
+  "真": {
+    "level": "YCT2"
+  },
+  "比": {
+    "level": "YCT2"
+  },
+  "了": {
+    "level": "YCT2"
+  },
+  "呢": {
+    "level": "YCT2"
+  },
+  "车站": {
+    "level": "YCT3"
+  },
+  "教室": {
+    "level": "YCT3"
+  },
+  "动物园": {
+    "level": "YCT3"
+  },
+  "爷爷": {
+    "level": "YCT3"
+  },
+  "奶奶": {
+    "level": "YCT3"
+  },
+  "小姐": {
+    "level": "YCT3"
+  },
+  "先生": {
+    "level": "YCT3"
+  },
+  "身体": {
+    "level": "YCT3"
+  },
+  "老虎": {
+    "level": "YCT3"
+  },
+  "猴子": {
+    "level": "YCT3"
+  },
+  "鸡蛋": {
+    "level": "YCT3"
+  },
+  "西瓜": {
+    "level": "YCT3"
+  },
+  "面包": {
+    "level": "YCT3"
+  },
+  "菜": {
+    "level": "YCT3"
+  },
+  "饺子": {
+    "level": "YCT3"
+  },
+  "果汁": {
+    "level": "YCT3"
+  },
+  "蛋糕": {
+    "level": "YCT3"
+  },
+  "水果": {
+    "level": "YCT3"
+  },
+  "中午": {
+    "level": "YCT3"
+  },
+  "小时": {
+    "level": "YCT3"
+  },
+  "时候": {
+    "level": "YCT3"
+  },
+  "时间": {
+    "level": "YCT3"
+  },
+  "去年": {
+    "level": "YCT3"
+  },
+  "生日": {
+    "level": "YCT3"
+  },
+  "衣服": {
+    "level": "YCT3"
+  },
+  "裙子": {
+    "level": "YCT3"
+  },
+  "裤子": {
+    "level": "YCT3"
+  },
+  "鞋": {
+    "level": "YCT3"
+  },
+  "杯子": {
+    "level": "YCT3"
+  },
+  "飞机": {
+    "level": "YCT3"
+  },
+  "公共汽车": {
+    "level": "YCT3"
+  },
+  "电脑": {
+    "level": "YCT3"
+  },
+  "电影": {
+    "level": "YCT3"
+  },
+  "玫瑰花": {
+    "level": "YCT3"
+  },
+  "礼物": {
+    "level": "YCT3"
+  },
+  "雨伞": {
+    "level": "YCT3"
+  },
+  "药": {
+    "level": "YCT3"
+  },
+  "自行车": {
+    "level": "YCT3"
+  },
+  "东西": {
+    "level": "YCT3"
+  },
+  "课": {
+    "level": "YCT3"
+  },
+  "问题": {
+    "level": "YCT3"
+  },
+  "意思": {
+    "level": "YCT3"
+  },
+  "年级": {
+    "level": "YCT3"
+  },
+  "事情": {
+    "level": "YCT3"
+  },
+  "太阳": {
+    "level": "YCT3"
+  },
+  "月亮": {
+    "level": "YCT3"
+  },
+  "前": {
+    "level": "YCT3"
+  },
+  "后": {
+    "level": "YCT3"
+  },
+  "左": {
+    "level": "YCT3"
+  },
+  "右": {
+    "level": "YCT3"
+  },
+  "下": {
+    "level": "YCT3"
+  },
+  "旁边": {
+    "level": "YCT3"
+  },
+  "外面": {
+    "level": "YCT3"
+  },
+  "欢迎": {
+    "level": "YCT3"
+  },
+  "听": {
+    "level": "YCT3"
+  },
+  "读": {
+    "level": "YCT3"
+  },
+  "写": {
+    "level": "YCT3"
+  },
+  "开": {
+    "level": "YCT3"
+  },
+  "关": {
+    "level": "YCT3"
+  },
+  "回": {
+    "level": "YCT3"
+  },
+  "问": {
+    "level": "YCT3"
+  },
+  "走": {
+    "level": "YCT3"
+  },
+  "穿": {
+    "level": "YCT3"
+  },
+  "洗澡": {
+    "level": "YCT3"
+  },
+  "给": {
+    "level": "YCT3"
+  },
+  "找": {
+    "level": "YCT3"
+  },
+  "懂": {
+    "level": "YCT3"
+  },
+  "笑": {
+    "level": "YCT3"
+  },
+  "哭": {
+    "level": "YCT3"
+  },
+  "帮助": {
+    "level": "YCT3"
+  },
+  "让": {
+    "level": "YCT3"
+  },
+  "休息": {
+    "level": "YCT3"
+  },
+  "运动": {
+    "level": "YCT3"
+  },
+  "跑步": {
+    "level": "YCT3"
+  },
+  "游泳": {
+    "level": "YCT3"
+  },
+  "踢足球": {
+    "level": "YCT3"
+  },
+  "打篮球": {
+    "level": "YCT3"
+  },
+  "唱歌": {
+    "level": "YCT3"
+  },
+  "跳舞": {
+    "level": "YCT3"
+  },
+  "完": {
+    "level": "YCT3"
+  },
+  "生病": {
+    "level": "YCT3"
+  },
+  "迟到": {
+    "level": "YCT3"
+  },
+  "感冒": {
+    "level": "YCT3"
+  },
+  "卖": {
+    "level": "YCT3"
+  },
+  "进": {
+    "level": "YCT3"
+  },
+  "出": {
+    "level": "YCT3"
+  },
+  "丢": {
+    "level": "YCT3"
+  },
+  "上网": {
+    "level": "YCT3"
+  },
+  "拿": {
+    "level": "YCT3"
+  },
+  "刮风": {
+    "level": "YCT3"
+  },
+  "下雪": {
+    "level": "YCT3"
+  },
+  "送": {
+    "level": "YCT3"
+  },
+  "想": {
+    "level": "YCT3"
+  },
+  "知道": {
+    "level": "YCT3"
+  },
+  "能": {
+    "level": "YCT3"
+  },
+  "蓝": {
+    "level": "YCT3"
+  },
+  "少": {
+    "level": "YCT3"
+  },
+  "白": {
+    "level": "YCT3"
+  },
+  "黑": {
+    "level": "YCT3"
+  },
+  "忙": {
+    "level": "YCT3"
+  },
+  "快": {
+    "level": "YCT3"
+  },
+  "慢": {
+    "level": "YCT3"
+  },
+  "远": {
+    "level": "YCT3"
+  },
+  "近": {
+    "level": "YCT3"
+  },
+  "累": {
+    "level": "YCT3"
+  },
+  "新": {
+    "level": "YCT3"
+  },
+  "对": [
+    {"level": "YCT3", "pos_map": ["形"]},
+    {"level": "YCT4", "pos_map": ["介"]}
+  ],
+  "可爱": {
+    "level": "YCT3"
+  },
+  "饱": {
+    "level": "YCT3"
+  },
+  "饿": {
+    "level": "YCT3"
+  },
+  "坏": {
+    "level": "YCT3"
+  },
+  "舒服": {
+    "level": "YCT3"
+  },
+  "着急": {
+    "level": "YCT3"
+  },
+  "快乐": {
+    "level": "YCT3"
+  },
+  "难": {
+    "level": "YCT3"
+  },
+  "胖": {
+    "level": "YCT3"
+  },
+  "瘦": {
+    "level": "YCT3"
+  },
+  "男": {
+    "level": "YCT3"
+  },
+  "女": {
+    "level": "YCT3"
+  },
+  "疼": {
+    "level": "YCT3"
+  },
+  "您": {
+    "level": "YCT3"
+  },
+  "它": {
+    "level": "YCT3"
+  },
+  "每": {
+    "level": "YCT3"
+  },
+  "为什么": {
+    "level": "YCT3"
+  },
+  "自己": {
+    "level": "YCT3"
+  },
+  "半": {
+    "level": "YCT3"
+  },
+  "百": {
+    "level": "YCT3"
+  },
+  "千": {
+    "level": "YCT3"
+  },
+  "第一": {
+    "level": "YCT3"
+  },
+  "本": {
+    "level": "YCT3"
+  },
+  "次": {
+    "level": "YCT3"
+  },
+  "件": {
+    "level": "YCT3"
+  },
+  "些": {
+    "level": "YCT3"
+  },
+  "都": {
+    "level": "YCT3"
+  },
+  "别": {
+    "level": "YCT3"
+  },
+  "一起": {
+    "level": "YCT3"
+  },
+  "太": {
+    "level": "YCT3"
+  },
+  "再": {
+    "level": "YCT3"
+  },
+  "就": {
+    "level": "YCT3"
+  },
+  "最": {
+    "level": "YCT3"
+  },
+  "还": [
+    {"level": "YCT3", "pos_map": ["副"]},
+    {"level": "YCT4", "pos_map": ["动"]}
+  ],
+  "当然": {
+    "level": "YCT3"
+  },
+  "因为": {
+    "level": "YCT3"
+  },
+  "所以": {
+    "level": "YCT3"
+  },
+  "但是": {
+    "level": "YCT3"
+  },
+  "把": {
+    "level": "YCT3"
+  },
+  "得": {
+    "level": "YCT3"
+  },
+  "过": {
+    "level": "YCT3"
+  },
+  "吧": {
+    "level": "YCT3"
+  },
+  "喂": {
+    "level": "YCT3"
+  },
+  "啊": {
+    "level": "YCT4"
+  },
+  "阿姨": {
+    "level": "YCT4"
+  },
+  "矮": {
+    "level": "YCT4"
+  },
+  "安静": {
+    "level": "YCT4"
+  },
+  "安全": {
+    "level": "YCT4"
+  },
+  "搬": {
+    "level": "YCT4"
+  },
+  "办法": {
+    "level": "YCT4"
+  },
+  "报纸": {
+    "level": "YCT4"
+  },
+  "北方": {
+    "level": "YCT4"
+  },
+  "被": {
+    "level": "YCT4"
+  },
+  "比赛": {
+    "level": "YCT4"
+  },
+  "必须": {
+    "level": "YCT4"
+  },
+  "毕业": {
+    "level": "YCT4"
+  },
+  "变化": {
+    "level": "YCT4"
+  },
+  "表演": {
+    "level": "YCT4"
+  },
+  "别人": {
+    "level": "YCT4"
+  },
+  "冰激凌": {
+    "level": "YCT4"
+  },
+  "冰箱": {
+    "level": "YCT4"
+  },
+  "饼干": {
+    "level": "YCT4"
+  },
+  "不但": {
+    "level": "YCT4"
+  },
+  "而且": {
+    "level": "YCT4"
+  },
+  "猜": {
+    "level": "YCT4"
+  },
+  "参观": {
+    "level": "YCT4"
+  },
+  "参加": {
+    "level": "YCT4"
+  },
+  "草地": {
+    "level": "YCT4"
+  },
+  "层": {
+    "level": "YCT4"
+  },
+  "长城": {
+    "level": "YCT4"
+  },
+  "尝": {
+    "level": "YCT4"
+  },
+  "超市": {
+    "level": "YCT4"
+  },
+  "成绩": {
+    "level": "YCT4"
+  },
+  "虫子": {
+    "level": "YCT4"
+  },
+  "出发": {
+    "level": "YCT4"
+  },
+  "初中": {
+    "level": "YCT4"
+  },
+  "除了": {
+    "level": "YCT4"
+  },
+  "窗户": {
+    "level": "YCT4"
+  },
+  "床": {
+    "level": "YCT4"
+  },
+  "春季": {
+    "level": "YCT4"
+  },
+  "词典": {
+    "level": "YCT4"
+  },
+  "聪明": {
+    "level": "YCT4"
+  },
+  "从": {
+    "level": "YCT4"
+  },
+  "错": {
+    "level": "YCT4"
+  },
+  "打扰": {
+    "level": "YCT4"
+  },
+  "打扫": {
+    "level": "YCT4"
+  },
+  "打算": {
+    "level": "YCT4"
+  },
+  "打针": {
+    "level": "YCT4"
+  },
+  "大概": {
+    "level": "YCT4"
+  },
+  "大海": {
+    "level": "YCT4"
+  },
+  "大家": {
+    "level": "YCT4"
+  },
+  "大象": {
+    "level": "YCT4"
+  },
+  "带": {
+    "level": "YCT4"
+  },
+  "戴": {
+    "level": "YCT4"
+  },
+  "担心": {
+    "level": "YCT4"
+  },
+  "到处": {
+    "level": "YCT4"
+  },
+  "地": {
+    "level": "YCT4"
+  },
+  "等": {
+    "level": "YCT4"
+  },
+  "地铁": {
+    "level": "YCT4"
+  },
+  "地图": {
+    "level": "YCT4"
+  },
+  "地址": {
+    "level": "YCT4"
+  },
+  "电灯": {
+    "level": "YCT4"
+  },
+  "电梯": {
+    "level": "YCT4"
+  },
+  "电子邮件": {
+    "level": "YCT4"
+  },
+  "东": {
+    "level": "YCT4"
+  },
+  "冬": {
+    "level": "YCT4"
+  },
+  "肚子": {
+    "level": "YCT4"
+  },
+  "短": {
+    "level": "YCT4"
+  },
+  "锻炼": {
+    "level": "YCT4"
+  },
+  "多么": {
+    "level": "YCT4"
+  },
+  "儿子": {
+    "level": "YCT4"
+  },
+  "发烧": {
+    "level": "YCT4"
+  },
+  "方便": {
+    "level": "YCT4"
+  },
+  "放": {
+    "level": "YCT4"
+  },
+  "放假": {
+    "level": "YCT4"
+  },
+  "非常": {
+    "level": "YCT4"
+  },
+  "服务员": {
+    "level": "YCT4"
+  },
+  "附近": {
+    "level": "YCT4"
+  },
+  "复习": {
+    "level": "YCT4"
+  },
+  "干净": {
+    "level": "YCT4"
+  },
+  "敢": {
+    "level": "YCT4"
+  },
+  "感兴趣": {
+    "level": "YCT4"
+  },
+  "刚才": {
+    "level": "YCT4"
+  },
+  "告诉": {
+    "level": "YCT4"
+  },
+  "更": {
+    "level": "YCT4"
+  },
+  "功夫": {
+    "level": "YCT4"
+  },
+  "公斤": {
+    "level": "YCT4"
+  },
+  "公里": {
+    "level": "YCT4"
+  },
+  "公园": {
+    "level": "YCT4"
+  },
+  "工作": {
+    "level": "YCT4"
+  },
+  "够": {
+    "level": "YCT4"
+  },
+  "挂": {
+    "level": "YCT4"
+  },
+  "关于": {
+    "level": "YCT4"
+  },
+  "贵": {
+    "level": "YCT4"
+  },
+  "国家": {
+    "level": "YCT4"
+  },
+  "哈": {
+    "level": "YCT4"
+  },
+  "还是": {
+    "level": "YCT4"
+  },
+  "孩子": {
+    "level": "YCT4"
+  },
+  "害怕": {
+    "level": "YCT4"
+  },
+  "寒假": {
+    "level": "YCT4"
+  },
+  "好像": {
+    "level": "YCT4"
+  },
+  "号码": {
+    "level": "YCT4"
+  },
+  "合适": {
+    "level": "YCT4"
+  },
+  "盒子": {
+    "level": "YCT4"
+  },
+  "蝴蝶": {
+    "level": "YCT4"
+  },
+  "护士": {
+    "level": "YCT4"
+  },
+  "互相": {
+    "level": "YCT4"
+  },
+  "花": {
+    "level": "YCT4"
+  },
+  "换": {
+    "level": "YCT4"
+  },
+  "火车": {
+    "level": "YCT4"
+  },
+  "或者": {
+    "level": "YCT4"
+  },
+  "极": {
+    "level": "YCT4"
+  },
+  "记得": {
+    "level": "YCT4"
+  },
+  "既": {
+  "level": "YCT4"
+},
+  "又": {
+  "level": "YCT4"
+},
+  "加": {
+    "level": "YCT4"
+  },
+  "坚持": {
+    "level": "YCT4"
+  },
+  "减": {
+    "level": "YCT4"
+  },
+  "健康": {
+    "level": "YCT4"
+  },
+  "见面": {
+    "level": "YCT4"
+  },
+  "将来": {
+    "level": "YCT4"
+  },
+  "讲": {
+    "level": "YCT4"
+  },
+  "教": {
+    "level": "YCT4"
+  },
+  "接": {
+    "level": "YCT4"
+  },
+  "节目": {
+    "level": "YCT4"
+  },
+  "节日": {
+    "level": "YCT4"
+  },
+  "借": {
+    "level": "YCT4"
+  },
+  "介绍": {
+    "level": "YCT4"
+  },
+  "紧张": {
+    "level": "YCT4"
+  },
+  "经常": {
+    "level": "YCT4"
+  },
+  "警察": {
+    "level": "YCT4"
+  },
+  "旧": {
+    "level": "YCT4"
+  },
+  "句子": {
+    "level": "YCT4"
+  },
+  "决定": {
+    "level": "YCT4"
+  },
+  "开会": {
+    "level": "YCT4"
+  },
+  "开始": {
+    "level": "YCT4"
+  },
+  "考试": {
+    "level": "YCT4"
+  },
+  "烤鸭": {
+    "level": "YCT4"
+  },
+  "渴": {
+    "level": "YCT4"
+  },
+  "可能": {
+    "level": "YCT4"
+  },
+  "刻": {
+    "level": "YCT4"
+  },
+  "空调": {
+    "level": "YCT4"
+  },
+  "筷子": {
+    "level": "YCT4"
+  },
+  "辣": {
+    "level": "YCT4"
+  },
+  "来得及": {
+    "level": "YCT4"
+  },
+  "老": {
+    "level": "YCT4"
+  },
+  "离": {
+    "level": "YCT4"
+  },
+  "离开": {
+    "level": "YCT4"
+  },
+  "梨": {
+    "level": "YCT4"
+  },
+  "礼貌": {
+    "level": "YCT4"
+  },
+  "厉害": {
+    "level": "YCT4"
+  },
+  "俩": {
+    "level": "YCT4"
+  },
+  "联系": {
+    "level": "YCT4"
+  },
+  "脸": {
+    "level": "YCT4"
+  },
+  "练习": {
+    "level": "YCT4"
+  },
+  "凉快": {
+    "level": "YCT4"
+  },
+  "辆": {
+    "level": "YCT4"
+  },
+  "聊天儿": {
+    "level": "YCT4"
+  },
+  "邻居": {
+    "level": "YCT4"
+  },
+  "另外": {
+    "level": "YCT4"
+  },
+  "流汗": {
+    "level": "YCT4"
+  },
+  "楼": {
+    "level": "YCT4"
+  },
+  "旅游": {
+    "level": "YCT4"
+  },
+  "马虎": {
+    "level": "YCT4"
+  },
+  "马上": {
+    "level": "YCT4"
+  },
+  "门口": {
+    "level": "YCT4"
+  },
+  "迷路": {
+    "level": "YCT4"
+  },
+  "明白": {
+    "level": "YCT4"
+  },
+  "南": {
+    "level": "YCT4"
+  },
+  "难过": {
+    "level": "YCT4"
+  },
+  "年轻": {
+    "level": "YCT4"
+  },
+  "努力": {
+    "level": "YCT4"
+  },
+  "女儿": {
+    "level": "YCT4"
+  },
+  "暖和": {
+    "level": "YCT4"
+  },
+  "爬山": {
+    "level": "YCT4"
+  },
+  "排队": {
+    "level": "YCT4"
+  },
+  "排球": {
+    "level": "YCT4"
+  },
+  "盘子": {
+    "level": "YCT4"
+  },
+  "便宜": {
+    "level": "YCT4"
+  },
+  "乒乓球": {
+    "level": "YCT4"
+  },
+  "破": {
+    "level": "YCT4"
+  },
+  "葡萄": {
+    "level": "YCT4"
+  },
+  "奇怪": {
+    "level": "YCT4"
+  },
+  "骑马": {
+    "level": "YCT4"
+  },
+  "其他": {
+    "level": "YCT4"
+  },
+  "起来": {
+    "level": "YCT4"
+  },
+  "桥": {
+    "level": "YCT4"
+  },
+  "巧克力": {
+    "level": "YCT4"
+  },
+  "清楚": {
+    "level": "YCT4"
+  },
+  "晴": {
+    "level": "YCT4"
+  },
+  "秋": {
+    "level": "YCT4"
+  },
+  "然后": {
+    "level": "YCT4"
+  },
+  "认真": {
+    "level": "YCT4"
+  },
+  "容易": {
+    "level": "YCT4"
+  },
+  "如果": {
+    "level": "YCT4"
+  },
+  "那么": {
+    "level": "YCT4"
+  },
+  "散步": {
+    "level": "YCT4"
+  },
+  "沙发": {
+    "level": "YCT4"
+  },
+  "上班": {
+    "level": "YCT4"
+  },
+  "上海": {
+    "level": "YCT4"
+  },
+  "生活": {
+    "level": "YCT4"
+  },
+  "生气": {
+    "level": "YCT4"
+  },
+  "声音": {
+    "level": "YCT4"
+  },
+  "手表": {
+    "level": "YCT4"
+  },
+  "受不了": {
+    "level": "YCT4"
+  },
+  "售票员": {
+    "level": "YCT4"
+  },
+  "叔叔": {
+    "level": "YCT4"
+  },
+  "熟悉": {
+    "level": "YCT4"
+  },
+  "暑假": {
+    "level": "YCT4"
+  },
+  "刷牙": {
+    "level": "YCT4"
+  },
+  "双": {
+    "level": "YCT4"
+  },
+  "虽然": {
+    "level": "YCT4"
+  },
+  "孙子": {
+    "level": "YCT4"
+  },
+  "弹钢琴": {
+    "level": "YCT4"
+  },
+  "汤": {
+    "level": "YCT4"
+  },
+  "糖": {
+    "level": "YCT4"
+  },
+  "躺": {
+    "level": "YCT4"
+  },
+  "桃": {
+    "level": "YCT4"
+  },
+  "讨论": {
+    "level": "YCT4"
+  },
+  "讨厌": {
+    "level": "YCT4"
+  },
+  "特别": {
+    "level": "YCT4"
+  },
+  "体育馆": {
+    "level": "YCT4"
+  },
+  "甜": {
+    "level": "YCT4"
+  },
+  "条": {
+    "level": "YCT4"
+  },
+  "听说": {
+    "level": "YCT4"
+  },
+  "停": {
+    "level": "YCT4"
+  },
+  "同意": {
+    "level": "YCT4"
+  },
+  "突然": {
+    "level": "YCT4"
+  },
+  "图书馆": {
+    "level": "YCT4"
+  },
+  "兔子": {
+    "level": "YCT4"
+  },
+  "腿": {
+    "level": "YCT4"
+  },
+  "脱": {
+    "level": "YCT4"
+  },
+  "玩具": {
+    "level": "YCT4"
+  },
+  "万": {
+    "level": "YCT4"
+  },
+  "网球": {
+    "level": "YCT4"
+  },
+  "忘记": {
+    "level": "YCT4"
+  },
+  "危险": {
+    "level": "YCT4"
+  },
+  "为了": {
+    "level": "YCT4"
+  },
+  "无论": {
+    "level": "YCT4"
+  },
+  "西": {
+    "level": "YCT4"
+  },
+  "西红柿": {
+    "level": "YCT4"
+  },
+  "希望": {
+    "level": "YCT4"
+  },
+  "习惯": {
+    "level": "YCT4"
+  },
+  "洗手间": {
+    "level": "YCT4"
+  },
+  "夏": {
+    "level": "YCT4"
+  },
+  "先": {
+    "level": "YCT4"
+  },
+  "响": {
+    "level": "YCT4"
+  },
+  "向": {
+    "level": "YCT4"
+  },
+  "小心": {
+    "level": "YCT4"
+  },
+  "校园": {
+    "level": "YCT4"
+  },
+  "新闻": {
+    "level": "YCT4"
+  },
+  "心情": {
+    "level": "YCT4"
+  },
+  "信封": {
+    "level": "YCT4"
+  },
+  "星星": {
+    "level": "YCT4"
+  },
+  "行": {
+    "level": "YCT4"
+  },
+  "醒": {
+    "level": "YCT4"
+  },
+  "幸福": {
+    "level": "YCT4"
+  },
+  "选择": {
+    "level": "YCT4"
+  },
+  "眼镜": {
+    "level": "YCT4"
+  },
+  "羊肉": {
+    "level": "YCT4"
+  },
+  "钥匙": {
+    "level": "YCT4"
+  },
+  "页": {
+    "level": "YCT4"
+  },
+  "一定": {
+    "level": "YCT4"
+  },
+  "一共": {
+    "level": "YCT4"
+  },
+  "一会儿": {
+    "level": "YCT4"
+  },
+  "一下儿": {
+    "level": "YCT4"
+  },
+  "一样": {
+    "level": "YCT4"
+  },
+  "已经": {
+    "level": "YCT4"
+  },
+  "以前": {
+    "level": "YCT4"
+  },
+  "以为": {
+    "level": "YCT4"
+  },
+  "一边": {
+    "level": "YCT4"
+  },
+  "一点儿": {
+    "level": "YCT4"
+  },
+  "一直": {
+    "level": "YCT4"
+  },
+  "饮料": {
+    "level": "YCT4"
+  },
+  "应该": {
+    "level": "YCT4"
+  },
+  "勇敢": {
+    "level": "YCT4"
+  },
+  "用": {
+    "level": "YCT4"
+  },
+  "游戏": {
+    "level": "YCT4"
+  },
+  "有名": {
+    "level": "YCT4"
+  },
+  "元": {
+    "level": "YCT4"
+  },
+  "圆": {
+    "level": "YCT4"
+  },
+  "越来越": {
+    "level": "YCT4"
+  },
+  "云": {
+    "level": "YCT4"
+  },
+  "杂志": {
+    "level": "YCT4"
+  },
+  "站": {
+    "level": "YCT4"
+  },
+  "张": {
+    "level": "YCT4"
+  },
+  "照顾": {
+    "level": "YCT4"
+  },
+  "照片": {
+    "level": "YCT4"
+  },
+  "照相": {
+    "level": "YCT4"
+  },
+  "着": {
+    "level": "YCT4"
+  },
+  "正在": {
+    "level": "YCT4"
+  },
+  "知识": {
+    "level": "YCT4"
+  },
+  "只要": {
+    "level": "YCT4"
+  },
+  "中间": {
+    "level": "YCT4"
+  },
+  "种": {
+    "level": "YCT4"
+  },
+  "重要": {
+    "level": "YCT4"
+  },
+  "周末": {
+    "level": "YCT4"
+  },
+  "住": {
+    "level": "YCT4"
+  },
+  "祝贺": {
+    "level": "YCT4"
+  },
+  "注意": {
+    "level": "YCT4"
+  },
+  "准备": {
+    "level": "YCT4"
+  },
+  "准时": {
+    "level": "YCT4"
+  },
+  "最近": {
+    "level": "YCT4"
+  },
+  "作业": {
+    "level": "YCT4"
+  }
+}
