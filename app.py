@@ -98,7 +98,7 @@ st.markdown(
 st.markdown("#### 🎯 工具介绍")
 st.markdown(
     """
-- 本工具支持批量上传 UTF-8 编码的 TXT 文本，可自动统计各文本中**新HSK（1-9级）**、**旧HSK（1-6级）**及**YCT 少儿汉语（1-4级）** 词汇等级的 **频数和词序列**。
+- 本工具支持批量上传 UTF-8 编码的 TXT 文本，可自动统计各文本中 **新HSK（1-9级）**、**旧HSK（1-6级）** 及 **YCT 少儿汉语（1-4级）** 词汇等级的 **频数** 和 **词序列**。
 - 工具调用 **[THULAC](https://thulac.thunlp.org/)**  (*`THU Lexical Analyzer for Chinese，清华大学自然语言处理与社会人文计算实验室研制`*)  对中文文本进行分词，
 分词后的文本可打包下载为 `segmented_texts.zip`，方便学习与研究。
 """
